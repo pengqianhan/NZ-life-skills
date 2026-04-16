@@ -1,0 +1,17 @@
+{
+  "name": "nz-life-skills",
+  "version": "1.0.0",
+  "description": "New Zealand life skills collection for Codex and Claude Code",
+  "author": {
+    "name": "pengqianhan",
+    "url": "https://github.com/pengqianhan"
+  },
+  "repository": "https://github.com/pengqianhan/NZ-life-skills",
+  "keywords": [
+    "skills",
+    "codex",
+    "claude-code",
+    "new-zealand"
+  ],
+  "skills": "./skills"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kiwi Access Card"
+  short_description: "NZ Kiwi Access Card policy and application guide"
+  default_prompt: "Use $kiwi-access-card to answer Kiwi Access Card eligibility, online or in-person application, and document questions in New Zealand."
