@@ -1,6 +1,6 @@
-# NZ Life Skills
+<h1 align="center">NZ Life Skills</h1>
 
-![NZ Life Skills](./assets/download.png)
+![NZ Life Skills](./assets/banner.png)
 
 A shared skill collection for Codex and Claude Code, focused on practical New Zealand workflows and policy-heavy tasks.
 
