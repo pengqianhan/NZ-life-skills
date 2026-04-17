@@ -1,6 +1,6 @@
 # NZ Life Skills
 
-![NZ Life Skills](./assets/banner.png)
+![NZ Life Skills](/NZ-life-skills/assets/banner.png)
 
 Practical New Zealand life skills for international students, especially Chinese newcomers, with official-source-backed guides for Codex and Claude Code.
 
