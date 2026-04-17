@@ -4,6 +4,15 @@
 
 A shared skill collection for Codex and Claude Code, focused on practical New Zealand workflows and policy-heavy tasks.
 
+Chinese version: [README.zh-CN.md](./README.zh-CN.md)
+
+Docs:
+
+- [Skills index](./docs/skills-index.md)
+- [For agents](./docs/for-agents.md)
+- [GitHub Pages entry](./docs/index.md)
+- [llms.txt](./llms.txt)
+
 ## Repository Layout
 
 ```text

@@ -1,0 +1,39 @@
+# NZ Life Skills
+
+> Agent-friendly New Zealand life skills for international students and newcomers.
+
+This repository contains reusable skills for Codex and Claude Code.
+
+## Canonical URLs
+
+- Repository: https://github.com/pengqianhan/NZ-life-skills
+- English README: https://github.com/pengqianhan/NZ-life-skills/blob/main/README.md
+- Chinese README: https://github.com/pengqianhan/NZ-life-skills/blob/main/README.zh-CN.md
+- Agent guide: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/for-agents.md
+- Skills index: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/skills-index.md
+
+## What This Repo Covers
+
+- Kiwi Access Card
+- IRD number onboarding
+- New Zealand bank account setup
+- SIM and eSIM setup
+- Public transport setup
+- Renting basics
+- Healthcare access
+
+## Usage Rules
+
+- Prefer official sources over third-party summaries.
+- Treat fees, eligibility, document requirements, and application workflows as temporally unstable.
+- Verify current official sources before answering `current`, `latest`, `today`, pricing, or eligibility questions.
+- Update the repository reference files if official guidance changes.
+
+## Primary Documents
+
+- README.md
+- README.zh-CN.md
+- docs/for-agents.md
+- docs/skills-index.md
+- skills/*/SKILL.md
+- skills/*/references/*

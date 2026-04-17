@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the project README
+    url: https://github.com/pengqianhan/NZ-life-skills/blob/main/README.md
+    about: Start here for installation, supported skills, and repository structure.
+  - name: Read the Chinese README
+    url: https://github.com/pengqianhan/NZ-life-skills/blob/main/README.zh-CN.md
+    about: 中文说明、安装方式和仓库定位。
+  - name: For agents
+    url: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/for-agents.md
+    about: Repository guidance for agents and maintainers.
