@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Bank Account"
+  short_description: "Bank account opening and setup guide"
+  default_prompt: "Use $nz-bank-account to explain how to open and set up a New Zealand bank account."

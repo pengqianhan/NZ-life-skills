@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Healthcare Access"
+  short_description: "GP, urgent care, and student health guide"
+  default_prompt: "Use $nz-healthcare-access to explain how students can access GPs, urgent care, pharmacies, and student health services in New Zealand."

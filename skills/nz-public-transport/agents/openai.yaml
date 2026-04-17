@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Public Transport"
+  short_description: "Transport cards and local transit guide"
+  default_prompt: "Use $nz-public-transport to explain local transport cards, transit apps, and public transport setup in New Zealand."

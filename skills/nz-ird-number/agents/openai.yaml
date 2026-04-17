@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ IRD Number"
+  short_description: "IRD number application and setup guide"
+  default_prompt: "Use $nz-ird-number to explain IRD number application, prerequisites, and setup steps in New Zealand."

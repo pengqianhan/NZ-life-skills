@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Mobile Setup"
+  short_description: "SIM, eSIM, and mobile plan guide"
+  default_prompt: "Use $nz-mobile-connectivity to compare NZ SIM or eSIM options and explain setup steps."

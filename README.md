@@ -21,6 +21,12 @@ Each skill lives under `skills/` and is maintained once. This repository exposes
 | Skill | Description |
 |---|---|
 | `kiwi-access-card` | Explain Kiwi Access Card eligibility, online versus in-person application, required documents, fees, timelines, and PDF form handling. |
+| `nz-ird-number` | Explain IRD number application, tax-setup basics, and first-arrival tax admin questions. |
+| `nz-bank-account` | Explain how to open and set up a New Zealand bank account as a newcomer or student. |
+| `nz-mobile-connectivity` | Compare SIM, eSIM, prepaid, and mobile setup options for new arrivals. |
+| `nz-public-transport` | Explain city-specific public transport setup, cards, apps, and concession questions. |
+| `nz-renting-basics` | Explain rental setup, flatting, tenancy basics, and move-in questions for newcomers. |
+| `nz-healthcare-access` | Explain how to use GPs, urgent care, pharmacies, and student health services in New Zealand. |
 
 ## Install For Codex
 
@@ -94,3 +100,12 @@ Some skills in this repository depend on live public policy or application rules
 - treat fees, requirements, and process details as unstable
 - verify official sources before answering any `current`, `latest`, `today`, or operational question
 - update the skill reference files if the official policy has changed
+
+## Official Source Rule
+
+Every skill in this repository must include an explicit official-source basis in its reference files.
+
+- Each skill reference file should contain an `Official Sources` section.
+- Prefer government, regulator, transport authority, university, bank, carrier, or provider official websites.
+- If the skill is comparative, list the main official providers that should be checked.
+- Do not rely on blogs, forums, or social media when an official source exists.

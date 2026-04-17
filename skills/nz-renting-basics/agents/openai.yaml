@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Renting Basics"
+  short_description: "Rental setup and tenant basics guide"
+  default_prompt: "Use $nz-renting-basics to explain renting basics, documents, and tenant setup steps in New Zealand."
