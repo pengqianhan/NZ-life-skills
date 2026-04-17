@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Discoverability"
+  short_description: "Improve repo discovery for search and agents"
+  default_prompt: "Use $repo-discoverability to improve a GitHub repository so search engines and agents can discover it more easily."

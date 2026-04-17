@@ -40,6 +40,7 @@ English version: [README.md](./README.md)
 | `nz-public-transport` | 解释不同城市的交通卡、官方 app、机场到住处和学生优惠。 |
 | `nz-renting-basics` | 解释租房、flatting、bond、入住检查和租房常见文档。 |
 | `nz-healthcare-access` | 解释 GP、urgent care、pharmacy、student health 等医疗入口。 |
+| `repo-discoverability` | 帮助改造 GitHub 仓库，让搜索引擎、GitHub 用户和 AI agents 更容易发现它。 |
 
 ## 安装到 Codex
 

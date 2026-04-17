@@ -38,6 +38,7 @@ Each skill lives under `skills/` and is maintained once. This repository exposes
 | `nz-public-transport` | Explain city-specific public transport setup, cards, apps, and concession questions. |
 | `nz-renting-basics` | Explain rental setup, flatting, tenancy basics, and move-in questions for newcomers. |
 | `nz-healthcare-access` | Explain how to use GPs, urgent care, pharmacies, and student health services in New Zealand. |
+| `repo-discoverability` | Improve a GitHub repository so search engines, GitHub users, and AI agents can discover it more easily. |
 
 ## Install For Codex
 
