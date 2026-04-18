@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Travel Planner"
+  short_description: "NZ itinerary, accommodation, and activity planning"
+  default_prompt: "Use $nz-travel-planner to plan New Zealand itineraries, accommodation options, and tour bookings, especially for Auckland to Northland trips."

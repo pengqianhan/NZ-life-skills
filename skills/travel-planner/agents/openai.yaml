@@ -1,0 +1,4 @@
+interface:
+  display_name: "Travel Planner"
+  short_description: "Multi-day trip planning with stays and activities"
+  default_prompt: "Use $travel-planner to plan multi-day trips, compare accommodation options, and build day-by-day itineraries with booking links."
