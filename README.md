@@ -18,7 +18,7 @@ Docs:
 
 This repository also exposes machine-readable endpoints for agent discovery and ingestion:
 
-- `docs/llms.txt` at repository root: [llms.txt](./llms.txt)
+- `llms.txt` at repository root: [llms.txt](./llms.txt)
 - GitHub Pages discovery files: `robots.txt` and `sitemap.xml`
 - package manifests: [docs/bundles.json](./docs/bundles.json) and [docs/skills.json](./docs/skills.json)
 - agent skill index: [docs/.well-known/agent-skills/index.json](./docs/.well-known/agent-skills/index.json)
