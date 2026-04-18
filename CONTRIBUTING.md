@@ -55,13 +55,22 @@ Chinese content is welcome when it improves usefulness for the target audience.
 
 ## Adding A New Skill
 
+If you are adding a new skill, start from the template in [docs/add-skill-template.md](./docs/add-skill-template.md).
+
+Use that template to keep the new skill aligned with the repository's package structure, bundle model, and machine-readable manifests.
+
+Typical steps are:
+
 1. Create a new folder under `skills/`.
-2. Add `SKILL.md`.
+2. Add `SKILL.md` with the current frontmatter schema.
 3. Add `agents/openai.yaml`.
 4. Add `references/` with at least one reference file.
-5. Include an `Official Sources` section in the reference file.
-6. Add the skill to `README.md`.
-7. Add it to `README.zh-CN.md` if relevant.
+5. Include an `Official Sources` section in the reference file when relevant.
+6. Update [docs/skills-index.md](./docs/skills-index.md).
+7. Update [docs/skills.json](./docs/skills.json).
+8. Update [docs/bundles.json](./docs/bundles.json) if bundle membership changes.
+9. Update `docs/.well-known/agent-skills/` if a bundle-level endpoint is affected.
+10. Update `README.md` and `README.zh-CN.md` only if the package story materially changes.
 
 ## Validating A Skill
 
