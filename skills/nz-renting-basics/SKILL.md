@@ -1,6 +1,8 @@
 ---
 name: nz-renting-basics
 description: Explain the basics of renting in New Zealand for international students, including common application documents, flatting versus renting, bond and rent expectations, tenancy setup, move-in checks, and practical first-week housing questions. Use when Codex needs to help a user understand rental setup, compare housing paths, or read tenancy-related documents. For any current legal rule, notice period, bond handling detail, or official tenancy process, verify the latest official government tenancy guidance first and update the skill reference if information has changed.
+metadata:
+  author: Pengqian Han
 ---
 
 # NZ Renting Basics

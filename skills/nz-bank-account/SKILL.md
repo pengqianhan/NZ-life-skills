@@ -1,6 +1,8 @@
 ---
 name: nz-bank-account
 description: Explain how international students and new arrivals can open and use a New Zealand bank account, including common document requirements, branch versus online opening, proof-of-address questions, and first-week setup tasks such as EFTPOS, debit cards, transfers, and linking payroll. Use when Codex needs to answer practical banking setup questions in New Zealand. For current account types, fees, bank-specific onboarding rules, or product comparisons, verify the latest official bank pages first and update the skill reference if information has changed.
+metadata:
+  author: Pengqian Han
 ---
 
 # NZ Bank Account

@@ -1,6 +1,8 @@
 ---
 name: nz-ird-number
 description: Explain how to apply for and use a New Zealand IRD number, including eligibility, required identity documents, tax setup, and common first-arrival questions for international students and new migrants. Use when Codex needs to answer IRD number questions, compare online versus manual application paths, explain what documents are usually needed, or help a user understand post-approval setup such as tax codes and linking the IRD number to employment or banking. For any current rule, official form, timing, or fee question, verify the latest Inland Revenue guidance first and update the skill reference if policy has changed.
+metadata:
+  author: Pengqian Han
 ---
 
 # NZ IRD Number

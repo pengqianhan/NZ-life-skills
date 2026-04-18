@@ -1,6 +1,8 @@
 ---
 name: repo-discoverability
 description: Improve the discoverability of a GitHub repository for search engines, GitHub users, and AI agents by auditing repository metadata, README structure, docs pages, GitHub Pages setup, community health files, and agent-friendly index files such as llms.txt. Use when Codex needs to help a user promote a repository, make it easier to discover on the web, improve GitHub Pages visibility, or make a skills or docs repository easier for agents to parse and reuse.
+metadata:
+  author: Pengqian Han
 ---
 
 # Repo Discoverability

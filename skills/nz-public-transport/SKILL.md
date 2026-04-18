@@ -1,6 +1,8 @@
 ---
 name: nz-public-transport
 description: Explain how to start using public transport in New Zealand cities, including transport cards, local transit apps, airport-to-city setup, fare basics, student concessions, and city-specific differences such as Auckland, Wellington, and Christchurch. Use when Codex needs to help a user get around after arrival or compare transport setup steps by city. For current fares, concession rules, app names, and card availability, verify the latest official local transport authority sources first and update the skill reference if information has changed.
+metadata:
+  author: Pengqian Han
 ---
 
 # NZ Public Transport

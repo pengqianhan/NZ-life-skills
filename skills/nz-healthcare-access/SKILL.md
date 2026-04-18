@@ -1,6 +1,8 @@
 ---
 name: nz-healthcare-access
 description: Explain how international students and new arrivals can access healthcare in New Zealand, including GPs, urgent care, pharmacies, student health services, medical registration basics, and how to decide where to go for common non-emergency issues. Use when Codex needs to answer practical healthcare-access questions for daily life in New Zealand. For current eligibility, pricing, clinic availability, enrolment rules, and emergency or urgent-care instructions, verify the latest official health or provider sources first and update the skill reference if information has changed.
+metadata:
+  author: Pengqian Han
 ---
 
 # NZ Healthcare Access
