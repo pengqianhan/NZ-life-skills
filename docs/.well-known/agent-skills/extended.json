@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "slug": "extended",
+  "title": "Extended",
+  "description": "Travel-planning skills that extend the repository beyond newcomer onboarding.",
+  "audience": [
+    "travelers",
+    "trip-planners",
+    "visitors"
+  ],
+  "package": "https://pengqianhan.github.io/NZ-life-skills/",
+  "skills": [
+    {
+      "name": "nz-travel-planner",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-travel-planner/SKILL.md"
+    },
+    {
+      "name": "travel-planner",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/SKILL.md"
+    }
+  ]
+}

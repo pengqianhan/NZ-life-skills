@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "slug": "nz-living-basics",
+  "title": "Living Basics",
+  "description": "Day-to-day setup tasks after arrival, including housing and healthcare.",
+  "audience": [
+    "international students",
+    "new arrivals"
+  ],
+  "package": "https://pengqianhan.github.io/NZ-life-skills/",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#living-basics",
+  "skills": [
+    {
+      "name": "nz-renting-basics",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-renting-basics/SKILL.md"
+    },
+    {
+      "name": "nz-healthcare-access",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-healthcare-access/SKILL.md"
+    }
+  ]
+}

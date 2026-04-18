@@ -1,16 +1,25 @@
 # NZ Life Skills
 
-> Agent-friendly New Zealand life skills for international students and newcomers.
+> Agent-friendly New Zealand newcomer onboarding package for international students and newcomers.
 
-This repository contains reusable skills for Codex and Claude Code.
+This repository contains reusable skills for Codex and Claude Code and is best treated as one vertical bundle.
 
 ## Canonical URLs
 
 - Repository: https://github.com/pengqianhan/NZ-life-skills
 - English README: https://github.com/pengqianhan/NZ-life-skills/blob/main/README.md
 - Chinese README: https://github.com/pengqianhan/NZ-life-skills/blob/main/README.zh-CN.md
+- Package structure: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/package-structure.md
 - Agent guide: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/for-agents.md
 - Skills index: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/skills-index.md
+- Bundles manifest: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/bundles.json
+- Skills manifest: https://github.com/pengqianhan/NZ-life-skills/blob/main/docs/skills.json
+
+## Bundle View
+
+- Arrival Setup
+- Living Basics
+- Meta
 
 ## What This Repo Covers
 

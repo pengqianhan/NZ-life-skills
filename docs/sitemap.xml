@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/package-structure.html</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/skills-index.html</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/for-agents.html</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/bundles.json</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/skills.json</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/index.json</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-arrival-setup.json</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-living-basics.json</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/meta.json</loc>
+  </url>
+  <url>
+    <loc>https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/extended.json</loc>
+  </url>
+</urlset>

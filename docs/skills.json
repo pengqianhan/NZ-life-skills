@@ -1,0 +1,162 @@
+{
+  "version": "1.1",
+  "source_of_truth": "skills/*/SKILL.md frontmatter",
+  "package": {
+    "slug": "nz-life-skills",
+    "title": "New Zealand newcomer onboarding"
+  },
+  "skills": [
+    {
+      "name": "kiwi-access-card",
+      "package": "nz-life-skills",
+      "bundle": "nz-arrival-setup",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers",
+        "overseas-passport-holders"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Answer questions about New Zealand Kiwi Access Card eligibility, online versus in-person application, required documents, fees, processing times, and form interpretation.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/kiwi-access-card/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/kiwi-access-card/references/current-policy.md"
+    },
+    {
+      "name": "nz-ird-number",
+      "package": "nz-life-skills",
+      "bundle": "nz-arrival-setup",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers",
+        "new-migrants"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Explain how to apply for and use a New Zealand IRD number, including eligibility, required identity documents, tax setup, and common first-arrival questions.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-ird-number/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-ird-number/references/current-guidance.md"
+    },
+    {
+      "name": "nz-bank-account",
+      "package": "nz-life-skills",
+      "bundle": "nz-arrival-setup",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Explain how international students and new arrivals can open and use a New Zealand bank account, including common document requirements and setup tasks.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-bank-account/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-bank-account/references/current-guidance.md"
+    },
+    {
+      "name": "nz-mobile-connectivity",
+      "package": "nz-life-skills",
+      "bundle": "nz-arrival-setup",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers",
+        "visitors"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Explain how new arrivals in New Zealand can choose and activate mobile service, including prepaid versus plan, SIM versus eSIM, and airport setup.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-mobile-connectivity/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-mobile-connectivity/references/current-guidance.md"
+    },
+    {
+      "name": "nz-public-transport",
+      "package": "nz-life-skills",
+      "bundle": "nz-arrival-setup",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Explain how to start using public transport in New Zealand cities, including transport cards, local transit apps, airport-to-city setup, and concessions.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-public-transport/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-public-transport/references/current-guidance.md"
+    },
+    {
+      "name": "nz-renting-basics",
+      "package": "nz-life-skills",
+      "bundle": "nz-living-basics",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Explain the basics of renting in New Zealand for international students, including application documents, bond, tenancy setup, and first-week housing questions.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-renting-basics/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-renting-basics/references/current-guidance.md"
+    },
+    {
+      "name": "nz-healthcare-access",
+      "package": "nz-life-skills",
+      "bundle": "nz-living-basics",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Explain how international students and new arrivals can access healthcare in New Zealand, including GPs, urgent care, pharmacies, and student health services.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-healthcare-access/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-healthcare-access/references/current-guidance.md"
+    },
+    {
+      "name": "repo-discoverability",
+      "package": "nz-life-skills",
+      "bundle": "meta",
+      "geography": "global",
+      "audience": [
+        "maintainers",
+        "agent-integrators"
+      ],
+      "policy_sensitive": false,
+      "official_sources_required": false,
+      "description": "Improve the discoverability of a GitHub repository for search engines, GitHub users, and AI agents.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/repo-discoverability/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/repo-discoverability/references/discoverability-checklist.md"
+    },
+    {
+      "name": "nz-travel-planner",
+      "package": "nz-life-skills",
+      "bundle": "extended",
+      "geography": "nz",
+      "audience": [
+        "travelers",
+        "visitors"
+      ],
+      "policy_sensitive": false,
+      "official_sources_required": false,
+      "description": "New Zealand travel planning skill for road trips and multi-day travel, especially in the Auckland Northland and Bay of Islands region.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-travel-planner/SKILL.md"
+    },
+    {
+      "name": "travel-planner",
+      "package": "nz-life-skills",
+      "bundle": "extended",
+      "geography": "global",
+      "audience": [
+        "travelers",
+        "trip-planners"
+      ],
+      "policy_sensitive": false,
+      "official_sources_required": false,
+      "description": "Universal travel planning skill for multi-day road trips and city-hopping itineraries anywhere in the world.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/references/nz-northland.md"
+    }
+  ]
+}

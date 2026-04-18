@@ -3,6 +3,14 @@ name: nz-travel-planner
 description: New Zealand travel planning skill — use this whenever someone wants to plan a road trip or multi-day trip in New Zealand, especially in the Auckland Northland / Bay of Islands region. Triggers when the user mentions visiting NZ attractions (Cape Reinga, Bay of Islands, Paihia, Kerikeri, Whangarei, Matakana, Ninety Mile Beach, Te Paki Sand Dunes, Waitangi, etc.), asks for NZ accommodation recommendations or Airbnb searches, wants a NZ itinerary or travel guide, or asks about booking tours and activities in New Zealand. Even if the user just says "help me plan a trip to New Zealand" or "I'm going to Auckland and want to explore north", use this skill.
 metadata:
   author: Pengqian Han
+  package: nz-life-skills
+  bundle: extended
+  geography: nz
+  audience:
+    - travelers
+    - visitors
+  policy_sensitive: false
+  official_sources_required: false
 ---
 
 # NZ Travel Planner — Auckland Northland Route

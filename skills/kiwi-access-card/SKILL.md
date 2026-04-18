@@ -3,6 +3,15 @@ name: kiwi-access-card
 description: Answer questions about New Zealand Kiwi Access Card eligibility, online versus in-person application, required documents, fees, processing times, and form interpretation. Use when Codex needs to explain Kiwi Access Card rules from AA, Kiwi Access official pages, or the official PDF form, especially for international students, overseas passport holders, or users asking whether they can apply and how. For any request involving current policy, latest rules, current fees, or live application support, verify against official websites first before answering and update the skill references if the policy has changed.
 metadata:
   author: Pengqian Han
+  package: nz-life-skills
+  bundle: nz-arrival-setup
+  geography: nz
+  audience:
+    - international-students
+    - newcomers
+    - overseas-passport-holders
+  policy_sensitive: true
+  official_sources_required: true
 ---
 
 # Kiwi Access Card

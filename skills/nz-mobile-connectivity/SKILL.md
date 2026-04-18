@@ -3,6 +3,15 @@ name: nz-mobile-connectivity
 description: Explain how new arrivals in New Zealand can choose and activate mobile service, including prepaid versus plan, SIM versus eSIM, airport setup, top-up, data usage, number portability, and common student tradeoffs. Use when Codex needs to answer NZ mobile setup questions for international students or visitors. For current carrier pricing, coverage details, promotions, eSIM support, or plan recommendations, verify the latest official carrier pages first and update the skill reference if information has changed.
 metadata:
   author: Pengqian Han
+  package: nz-life-skills
+  bundle: nz-arrival-setup
+  geography: nz
+  audience:
+    - international-students
+    - newcomers
+    - visitors
+  policy_sensitive: true
+  official_sources_required: true
 ---
 
 # NZ Mobile Connectivity

@@ -1,0 +1,89 @@
+{
+  "version": "1.1",
+  "source_of_truth": "skills/*/SKILL.md frontmatter",
+  "package": {
+    "slug": "nz-life-skills",
+    "title": "New Zealand newcomer onboarding",
+    "description": "Agent-friendly onboarding package for international students and newcomers in New Zealand.",
+    "repository_url": "https://github.com/pengqianhan/NZ-life-skills",
+    "site_url": "https://pengqianhan.github.io/NZ-life-skills"
+  },
+  "bundles": [
+    {
+      "name": "Arrival Setup",
+      "slug": "nz-arrival-setup",
+      "package": "nz-life-skills",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "First-week setup tasks for identity, tax, banking, mobile, and public transport.",
+      "doc_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#arrival-setup",
+      "agent_skill_url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-arrival-setup.json",
+      "skills": [
+        "kiwi-access-card",
+        "nz-ird-number",
+        "nz-bank-account",
+        "nz-mobile-connectivity",
+        "nz-public-transport"
+      ]
+    },
+    {
+      "name": "Living Basics",
+      "slug": "nz-living-basics",
+      "package": "nz-life-skills",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Day-to-day setup tasks after arrival, including housing and healthcare.",
+      "doc_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#living-basics",
+      "agent_skill_url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-living-basics.json",
+      "skills": [
+        "nz-renting-basics",
+        "nz-healthcare-access"
+      ]
+    },
+    {
+      "name": "Meta",
+      "slug": "meta",
+      "package": "nz-life-skills",
+      "geography": "global",
+      "audience": [
+        "maintainers",
+        "agent-integrators"
+      ],
+      "policy_sensitive": false,
+      "official_sources_required": false,
+      "description": "Repository distribution and discoverability support.",
+      "doc_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#meta",
+      "skills": [
+        "repo-discoverability"
+      ]
+    },
+    {
+      "name": "Extended",
+      "slug": "extended",
+      "package": "nz-life-skills",
+      "geography": "mixed",
+      "audience": [
+        "travelers",
+        "trip-planners",
+        "visitors"
+      ],
+      "policy_sensitive": false,
+      "official_sources_required": false,
+      "description": "Travel-planning skills that extend the repository beyond newcomer onboarding.",
+      "skills": [
+        "nz-travel-planner",
+        "travel-planner"
+      ]
+    }
+  ]
+}

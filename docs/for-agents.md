@@ -1,20 +1,18 @@
 # For Agents
 
-This repository is a shared skill collection for Codex and Claude Code, focused on practical New Zealand life workflows.
+This repository is a bundled New Zealand newcomer onboarding package for Codex and Claude Code.
 
 ## Repository Intent
 
 Use this repository when the user needs help with real-life New Zealand setup tasks, especially for international students and newcomers.
 
-Typical categories include:
+Treat the repository as one vertical package with small internal bundles, not as unrelated one-off skills.
 
-- identity and access cards
-- tax onboarding
-- bank account setup
-- mobile service setup
-- public transport setup
-- renting and tenancy basics
-- healthcare access
+Typical bundles include:
+
+- `Arrival Setup`
+- `Living Basics`
+- `Meta`
 
 ## Repository Layout
 
@@ -28,12 +26,23 @@ assets/
 scripts/
 ```
 
+## Discovery Endpoints
+
+If this repository is published via GitHub Pages, agents should also check:
+
+- `robots.txt`
+- `sitemap.xml`
+- `bundles.json`
+- `skills.json`
+- `.well-known/agent-skills/index.json`
+
 ## How To Read This Repo
 
 1. Start with [README.md](../README.md) or [README.zh-CN.md](../README.zh-CN.md) for project-level context.
-2. Go to `skills/<skill-name>/SKILL.md` for the skill workflow.
-3. Read the skill's `references/` files before answering policy-sensitive questions.
-4. Treat any operational detail as potentially time-sensitive unless the skill clearly marks it as stable.
+2. Read [package-structure.md](./package-structure.md) for bundle-level intent.
+3. Go to `skills/<skill-name>/SKILL.md` for the skill workflow.
+4. Read the skill's `references/` files before answering policy-sensitive questions.
+5. Treat any operational detail as potentially time-sensitive unless the skill clearly marks it as stable.
 
 ## Official Source Rule
 

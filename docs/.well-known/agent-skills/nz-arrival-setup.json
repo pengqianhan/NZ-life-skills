@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "slug": "nz-arrival-setup",
+  "title": "Arrival Setup",
+  "description": "First-week setup tasks for identity, tax, banking, mobile, and public transport.",
+  "audience": [
+    "international students",
+    "new arrivals"
+  ],
+  "package": "https://pengqianhan.github.io/NZ-life-skills/",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#arrival-setup",
+  "skills": [
+    {
+      "name": "kiwi-access-card",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/kiwi-access-card/SKILL.md"
+    },
+    {
+      "name": "nz-ird-number",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-ird-number/SKILL.md"
+    },
+    {
+      "name": "nz-bank-account",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-bank-account/SKILL.md"
+    },
+    {
+      "name": "nz-mobile-connectivity",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-mobile-connectivity/SKILL.md"
+    },
+    {
+      "name": "nz-public-transport",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-public-transport/SKILL.md"
+    }
+  ]
+}

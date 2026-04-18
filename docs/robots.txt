@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pengqianhan.github.io/NZ-life-skills/sitemap.xml
+
+# Content Signals for AI systems:
+# allow search and grounding, but do not allow training by default.
+Content-Signal: ai-train=no, ai-input=yes, search=yes

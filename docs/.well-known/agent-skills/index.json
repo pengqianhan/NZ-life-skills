@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "name": "NZ Life Skills",
+  "title": "New Zealand newcomer onboarding",
+  "description": "Agent-friendly onboarding package for international students and newcomers in New Zealand.",
+  "homepage": "https://pengqianhan.github.io/NZ-life-skills/",
+  "repository": "https://github.com/pengqianhan/NZ-life-skills",
+  "documents": {
+    "package": "https://pengqianhan.github.io/NZ-life-skills/package-structure.html",
+    "skills_index": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html",
+    "for_agents": "https://pengqianhan.github.io/NZ-life-skills/for-agents.html",
+    "llms_txt": "https://github.com/pengqianhan/NZ-life-skills/blob/main/llms.txt"
+  },
+  "bundles": [
+    {
+      "slug": "nz-arrival-setup",
+      "title": "Arrival Setup",
+      "url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-arrival-setup.json"
+    },
+    {
+      "slug": "nz-living-basics",
+      "title": "Living Basics",
+      "url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-living-basics.json"
+    },
+    {
+      "slug": "meta",
+      "title": "Meta",
+      "url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/meta.json"
+    },
+    {
+      "slug": "extended",
+      "title": "Extended",
+      "url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/extended.json"
+    }
+  ],
+  "manifests": {
+    "bundles": "https://pengqianhan.github.io/NZ-life-skills/bundles.json",
+    "skills": "https://pengqianhan.github.io/NZ-life-skills/skills.json"
+  }
+}

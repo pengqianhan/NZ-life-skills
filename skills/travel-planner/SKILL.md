@@ -15,6 +15,14 @@ description: >-
   (references/nz-northland.md) and accumulates examples from past plans.
 metadata:
   author: Pengqian Han
+  package: nz-life-skills
+  bundle: extended
+  geography: global
+  audience:
+    - travelers
+    - trip-planners
+  policy_sensitive: false
+  official_sources_required: false
 ---
 
 # Travel Planner

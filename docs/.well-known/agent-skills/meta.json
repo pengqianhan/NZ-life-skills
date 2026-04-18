@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "slug": "meta",
+  "title": "Meta",
+  "description": "Repository distribution and discoverability support.",
+  "audience": [
+    "maintainers",
+    "agent-integrators"
+  ],
+  "package": "https://pengqianhan.github.io/NZ-life-skills/",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#meta",
+  "skills": [
+    {
+      "name": "repo-discoverability",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/repo-discoverability/SKILL.md"
+    }
+  ]
+}
