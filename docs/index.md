@@ -2,7 +2,7 @@
 
 ![NZ Life Skills](/NZ-life-skills/assets/banner.png)
 
-New Zealand newcomer onboarding package for Codex and Claude Code, with official-source-backed guidance for international students and new arrivals.
+New Zealand pre-departure and newcomer onboarding package for Codex and Claude Code, with official-source-backed guidance for international students and new arrivals.
 
 ## Start Here
 
@@ -16,6 +16,10 @@ New Zealand newcomer onboarding package for Codex and Claude Code, with official
 - [Skills manifest](./skills.json)
 
 ## Package View
+
+### Pre-Departure
+
+- study departure checklist
 
 ### Arrival Setup
 

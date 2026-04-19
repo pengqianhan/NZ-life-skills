@@ -7,6 +7,21 @@
   },
   "skills": [
     {
+      "name": "prepare-nz-study-departure",
+      "package": "nz-life-skills",
+      "bundle": "nz-pre-departure",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Build and tailor a pre-departure checklist for Chinese students heading to New Zealand, covering documents, payment, phone setup, electronics, adapters, and packing decisions.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/prepare-nz-study-departure/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/prepare-nz-study-departure/references/current-guidance.md"
+    },
+    {
       "name": "kiwi-access-card",
       "package": "nz-life-skills",
       "bundle": "nz-arrival-setup",

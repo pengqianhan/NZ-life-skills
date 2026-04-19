@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ 留学出发清单"
+  short_description: "为中国赴新西兰留学生整理出发前行李与落地准备清单指南"
+  default_prompt: "Use $prepare-nz-study-departure to build a tailored pre-departure checklist for my New Zealand study plans."

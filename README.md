@@ -2,7 +2,7 @@
 
 ![NZ Life Skills](./assets/banner.png)
 
-A bundled onboarding package for Codex and Claude Code, focused on practical New Zealand newcomer workflows and policy-heavy tasks.
+A bundled onboarding package for Codex and Claude Code, focused on practical New Zealand pre-departure, arrival, and newcomer workflows with policy-heavy tasks where needed.
 
 Chinese version: [README.zh-CN.md](./README.zh-CN.md)
 
@@ -36,6 +36,12 @@ It is designed to be:
 - easy to maintain with official-source-first references
 
 ## Bundle Index
+
+### Pre-Departure
+
+Student planning and packing tasks before leaving for New Zealand.
+
+- `prepare-nz-study-departure`
 
 ### Arrival Setup
 
@@ -78,6 +84,7 @@ Each skill lives under `skills/` and is maintained once. The repository is inten
 
 | Skill | Description |
 |---|---|
+| `prepare-nz-study-departure` | Build a practical pre-departure checklist for Chinese students heading to New Zealand, covering documents, payments, electronics, and last-mile packing decisions. |
 | `kiwi-access-card` | Explain Kiwi Access Card eligibility, online versus in-person application, required documents, fees, timelines, and PDF form handling. |
 | `nz-ird-number` | Explain IRD number application, tax-setup basics, and first-arrival tax admin questions. |
 | `nz-bank-account` | Explain how to open and set up a New Zealand bank account as a newcomer or student. |

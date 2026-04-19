@@ -2,7 +2,7 @@
 
 ![NZ Life Skills](./assets/banner.png)
 
-一个同时面向 Codex 和 Claude Code 的新西兰新来者 onboarding package，重点覆盖国际学生，尤其是中国留学生，在新西兰落地和安顿阶段最常见、最容易卡住的生活问题。
+一个同时面向 Codex 和 Claude Code 的新西兰生活 onboarding package，重点覆盖国际学生，尤其是中国留学生，在赴新前准备、落地和安顿阶段最常见、最容易卡住的生活问题。
 
 English version: [README.md](./README.md)
 
@@ -36,6 +36,12 @@ English version: [README.md](./README.md)
 - 方便围绕官方来源持续维护
 
 ## Bundle 结构
+
+### Pre-Departure
+
+覆盖赴新西兰前的准备和行李规划问题。
+
+- 留学出发前 checklist
 
 ### Arrival Setup
 
@@ -91,6 +97,7 @@ scripts/
 
 | Skill | 说明 |
 |---|---|
+| `prepare-nz-study-departure` | 为赴新西兰的中国留学生整理出发前清单，覆盖证件、支付、电子设备、插头和打包取舍。 |
 | `kiwi-access-card` | 解释 Kiwi Access Card 的资格、线上和线下申请、所需材料、费用和表格问题。 |
 | `nz-ird-number` | 解释 IRD number 的申请、用途、常见材料和到达新西兰后的税务初始化问题。 |
 | `nz-bank-account` | 解释新西兰银行开户、常见材料、地址证明和日常使用设置。 |

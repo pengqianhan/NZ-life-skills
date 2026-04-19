@@ -6,15 +6,21 @@ This repository is easier to adopt when treated as a bundled capability pack, no
 
 Use this repository as:
 
-- a `New Zealand newcomer onboarding` package
+- a `New Zealand student and newcomer onboarding` package
 - a reusable vertical bundle for `international students` and `new arrivals`
 - an agent-friendly source of policy-aware setup workflows
 
 ## Recommended Bundle Model
 
-Group the skills into three bundles.
+Group the skills into four bundles.
 
-### 1. Arrival Setup
+### 1. Pre-Departure
+
+Purpose: before-flight planning, packing, and departure readiness for students heading to New Zealand.
+
+- `prepare-nz-study-departure`
+
+### 2. Arrival Setup
 
 Purpose: first-week identity, communications, and setup tasks.
 
@@ -24,14 +30,14 @@ Purpose: first-week identity, communications, and setup tasks.
 - `nz-mobile-connectivity`
 - `nz-public-transport`
 
-### 2. Living Basics
+### 3. Living Basics
 
 Purpose: day-to-day life setup after arrival.
 
 - `nz-renting-basics`
 - `nz-healthcare-access`
 
-### 3. Meta
+### 4. Meta
 
 Purpose: repository distribution and adoption support.
 

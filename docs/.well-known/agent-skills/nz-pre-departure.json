@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "slug": "nz-pre-departure",
+  "title": "Pre-Departure",
+  "description": "Pre-departure planning and packing guidance for students heading to New Zealand.",
+  "audience": [
+    "international students",
+    "new arrivals"
+  ],
+  "package": "https://pengqianhan.github.io/NZ-life-skills/",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#pre-departure",
+  "skills": [
+    {
+      "name": "prepare-nz-study-departure",
+      "url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/prepare-nz-study-departure/SKILL.md"
+    }
+  ]
+}

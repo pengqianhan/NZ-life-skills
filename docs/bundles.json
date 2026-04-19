@@ -10,6 +10,24 @@
   },
   "bundles": [
     {
+      "name": "Pre-Departure",
+      "slug": "nz-pre-departure",
+      "package": "nz-life-skills",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Pre-departure planning and packing guidance for students heading to New Zealand.",
+      "doc_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#pre-departure",
+      "agent_skill_url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-pre-departure.json",
+      "skills": [
+        "prepare-nz-study-departure"
+      ]
+    },
+    {
       "name": "Arrival Setup",
       "slug": "nz-arrival-setup",
       "package": "nz-life-skills",

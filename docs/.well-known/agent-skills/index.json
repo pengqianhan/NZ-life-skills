@@ -13,6 +13,11 @@
   },
   "bundles": [
     {
+      "slug": "nz-pre-departure",
+      "title": "Pre-Departure",
+      "url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-pre-departure.json"
+    },
+    {
       "slug": "nz-arrival-setup",
       "title": "Arrival Setup",
       "url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-arrival-setup.json"

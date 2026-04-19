@@ -14,6 +14,17 @@ This package is designed for:
 
 ## Bundle View
 
+### Pre-Departure
+
+Purpose: planning and packing tasks before an international student leaves for New Zealand.
+
+#### `prepare-nz-study-departure`
+
+- Purpose: Build a practical pre-departure checklist covering documents, payment, phone setup, electronics, adapters, optional kitchen items, and last-mile reminders for Chinese students heading to New Zealand.
+- Files:
+  - [SKILL.md](../skills/prepare-nz-study-departure/SKILL.md)
+  - [Current guidance](../skills/prepare-nz-study-departure/references/current-guidance.md)
+
 ### Arrival Setup
 
 Purpose: first-week setup tasks for identity, admin, communications, and movement.
