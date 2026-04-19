@@ -1,0 +1,4 @@
+interface:
+  display_name: "NZ Skill Creator"
+  short_description: "Create NZ repo skills and sync indexes and manifests"
+  default_prompt: "Use $nz-skill-creator to add a new skill to this NZ repository and update all related indexes and manifests."

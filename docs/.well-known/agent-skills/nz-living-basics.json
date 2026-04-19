@@ -5,10 +5,10 @@
   "description": "Day-to-day setup tasks after arrival, including housing and healthcare.",
   "audience": [
     "international students",
-    "new arrivals"
+    "newcomers"
   ],
   "package": "https://pengqianhan.github.io/NZ-life-skills/",
-  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#living-basics",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#nz-living-basics",
   "skills": [
     {
       "name": "nz-renting-basics",

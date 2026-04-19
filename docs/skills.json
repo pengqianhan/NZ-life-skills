@@ -172,6 +172,21 @@
       "description": "Universal travel planning skill for multi-day road trips and city-hopping itineraries anywhere in the world.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/SKILL.md",
       "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/references/nz-northland.md"
+    },
+    {
+      "name": "nz-skill-creator",
+      "package": "nz-life-skills",
+      "bundle": "meta",
+      "geography": "nz",
+      "audience": [
+        "maintainers",
+        "agent-integrators"
+      ],
+      "policy_sensitive": false,
+      "official_sources_required": false,
+      "description": "Create or update repository-native skills in NZ Life Skills and keep package docs, manifests, and bundle-level agent indexes in sync.",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-skill-creator/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-skill-creator/references/repo-playbook.md"
     }
   ]
 }

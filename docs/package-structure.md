@@ -12,17 +12,15 @@ Use this repository as:
 
 ## Recommended Bundle Model
 
-Group the skills into four bundles.
+Group the skills into 5 bundles.
 
 ### 1. Pre-Departure
-
-Purpose: before-flight planning, packing, and departure readiness for students heading to New Zealand.
+Purpose: Pre-departure planning and packing guidance for students heading to New Zealand.
 
 - `prepare-nz-study-departure`
 
 ### 2. Arrival Setup
-
-Purpose: first-week identity, communications, and setup tasks.
+Purpose: First-week setup tasks for identity, tax, banking, mobile, and public transport.
 
 - `kiwi-access-card`
 - `nz-ird-number`
@@ -31,17 +29,22 @@ Purpose: first-week identity, communications, and setup tasks.
 - `nz-public-transport`
 
 ### 3. Living Basics
-
-Purpose: day-to-day life setup after arrival.
+Purpose: Day-to-day setup tasks after arrival, including housing and healthcare.
 
 - `nz-renting-basics`
 - `nz-healthcare-access`
 
 ### 4. Meta
-
-Purpose: repository distribution and adoption support.
+Purpose: Repository distribution and discoverability support.
 
 - `repo-discoverability`
+- `nz-skill-creator`
+
+### 5. Extended
+Purpose: Travel-planning skills that extend the repository beyond newcomer onboarding.
+
+- `nz-travel-planner`
+- `travel-planner`
 
 ## Recommended Repository Shape
 

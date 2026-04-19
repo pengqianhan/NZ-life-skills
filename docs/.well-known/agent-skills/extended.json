@@ -5,10 +5,11 @@
   "description": "Travel-planning skills that extend the repository beyond newcomer onboarding.",
   "audience": [
     "travelers",
-    "trip-planners",
+    "trip planners",
     "visitors"
   ],
   "package": "https://pengqianhan.github.io/NZ-life-skills/",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#extended",
   "skills": [
     {
       "name": "nz-travel-planner",

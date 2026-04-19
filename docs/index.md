@@ -18,25 +18,26 @@ New Zealand pre-departure and newcomer onboarding package for Codex and Claude C
 ## Package View
 
 ### Pre-Departure
-
-- study departure checklist
+- prepare-nz-study-departure
 
 ### Arrival Setup
-
-- Kiwi Access Card
-- IRD number
-- bank account setup
-- mobile setup
-- public transport
+- kiwi-access-card
+- nz-ird-number
+- nz-bank-account
+- nz-mobile-connectivity
+- nz-public-transport
 
 ### Living Basics
-
-- renting basics
-- healthcare access
+- nz-renting-basics
+- nz-healthcare-access
 
 ### Meta
+- repo-discoverability
+- nz-skill-creator
 
-- repository discoverability support
+### Extended
+- nz-travel-planner
+- travel-planner
 
 ## Why This Exists
 
@@ -69,7 +70,7 @@ bash ~/.claude/skill-repos/nz-life-skills/scripts/install-claude-all.sh
 The recommended adoption unit is:
 
 - the full repository as `New Zealand newcomer onboarding`
-- or the `Arrival Setup` bundle as the smallest strong package
+- or a focused bundle such as `nz-arrival-setup`
 
 Machine-readable discovery files are available at:
 

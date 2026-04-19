@@ -10,9 +10,11 @@ Treat the repository as one vertical package with small internal bundles, not as
 
 Typical bundles include:
 
+- `Pre-Departure`
 - `Arrival Setup`
 - `Living Basics`
 - `Meta`
+- `Extended`
 
 ## Repository Layout
 

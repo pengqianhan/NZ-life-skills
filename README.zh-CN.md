@@ -65,6 +65,7 @@ English version: [README.md](./README.md)
 覆盖这个 package 的分发和可发现性支持。
 
 - repo discoverability
+- nz-skill-creator
 
 ## 这个仓库解决什么问题
 
@@ -106,6 +107,7 @@ scripts/
 | `nz-renting-basics` | 解释租房、flatting、bond、入住检查和租房常见文档。 |
 | `nz-healthcare-access` | 解释 GP、urgent care、pharmacy、student health 等医疗入口。 |
 | `repo-discoverability` | 帮助改造 GitHub 仓库，让搜索引擎、GitHub 用户和 AI agents 更容易发现它。 |
+| `nz-skill-creator` | 在这个仓库里创建或更新 skill，并同步维护 docs、manifests 和 bundle 级 agent 索引。 |
 
 如果只想先看 package 视角，可直接阅读：[docs/package-structure.md](./docs/package-structure.md)
 

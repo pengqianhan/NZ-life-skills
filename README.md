@@ -38,15 +38,11 @@ It is designed to be:
 ## Bundle Index
 
 ### Pre-Departure
-
-Student planning and packing tasks before leaving for New Zealand.
-
+Pre-departure planning and packing guidance for students heading to New Zealand.
 - `prepare-nz-study-departure`
 
 ### Arrival Setup
-
-First-week setup tasks for new arrivals.
-
+First-week setup tasks for identity, tax, banking, mobile, and public transport.
 - `kiwi-access-card`
 - `nz-ird-number`
 - `nz-bank-account`
@@ -54,17 +50,19 @@ First-week setup tasks for new arrivals.
 - `nz-public-transport`
 
 ### Living Basics
-
-Day-to-day setup tasks after arrival.
-
+Day-to-day setup tasks after arrival, including housing and healthcare.
 - `nz-renting-basics`
 - `nz-healthcare-access`
 
 ### Meta
-
-Support tooling for adoption and distribution.
-
+Repository distribution and discoverability support.
 - `repo-discoverability`
+- `nz-skill-creator`
+
+### Extended
+Travel-planning skills that extend the repository beyond newcomer onboarding.
+- `nz-travel-planner`
+- `travel-planner`
 
 ## Repository Layout
 
@@ -84,15 +82,18 @@ Each skill lives under `skills/` and is maintained once. The repository is inten
 
 | Skill | Description |
 |---|---|
-| `prepare-nz-study-departure` | Build a practical pre-departure checklist for Chinese students heading to New Zealand, covering documents, payments, electronics, and last-mile packing decisions. |
-| `kiwi-access-card` | Explain Kiwi Access Card eligibility, online versus in-person application, required documents, fees, timelines, and PDF form handling. |
-| `nz-ird-number` | Explain IRD number application, tax-setup basics, and first-arrival tax admin questions. |
-| `nz-bank-account` | Explain how to open and set up a New Zealand bank account as a newcomer or student. |
-| `nz-mobile-connectivity` | Compare SIM, eSIM, prepaid, and mobile setup options for new arrivals. |
-| `nz-public-transport` | Explain city-specific public transport setup, cards, apps, and concession questions. |
-| `nz-renting-basics` | Explain rental setup, flatting, tenancy basics, and move-in questions for newcomers. |
-| `nz-healthcare-access` | Explain how to use GPs, urgent care, pharmacies, and student health services in New Zealand. |
-| `repo-discoverability` | Improve a GitHub repository so search engines, GitHub users, and AI agents can discover it more easily. |
+| `prepare-nz-study-departure` | Build and tailor a pre-departure checklist for Chinese students heading to New Zealand, covering documents, payment, phone setup, electronics, adapters, and packing decisions. |
+| `kiwi-access-card` | Answer questions about New Zealand Kiwi Access Card eligibility, online versus in-person application, required documents, fees, processing times, and form interpretation. |
+| `nz-ird-number` | Explain how to apply for and use a New Zealand IRD number, including eligibility, required identity documents, tax setup, and common first-arrival questions. |
+| `nz-bank-account` | Explain how international students and new arrivals can open and use a New Zealand bank account, including common document requirements and setup tasks. |
+| `nz-mobile-connectivity` | Explain how new arrivals in New Zealand can choose and activate mobile service, including prepaid versus plan, SIM versus eSIM, and airport setup. |
+| `nz-public-transport` | Explain how to start using public transport in New Zealand cities, including transport cards, local transit apps, airport-to-city setup, and concessions. |
+| `nz-renting-basics` | Explain the basics of renting in New Zealand for international students, including application documents, bond, tenancy setup, and first-week housing questions. |
+| `nz-healthcare-access` | Explain how international students and new arrivals can access healthcare in New Zealand, including GPs, urgent care, pharmacies, and student health services. |
+| `repo-discoverability` | Improve the discoverability of a GitHub repository for search engines, GitHub users, and AI agents. |
+| `nz-travel-planner` | New Zealand travel planning skill for road trips and multi-day travel, especially in the Auckland Northland and Bay of Islands region. |
+| `travel-planner` | Universal travel planning skill for multi-day road trips and city-hopping itineraries anywhere in the world. |
+| `nz-skill-creator` | Create or update repository-native skills in NZ Life Skills and keep package docs, manifests, and bundle-level agent indexes in sync. |
 
 For a concise packaging view, see [Package structure](./docs/package-structure.md).
 

@@ -5,10 +5,10 @@
   "description": "First-week setup tasks for identity, tax, banking, mobile, and public transport.",
   "audience": [
     "international students",
-    "new arrivals"
+    "newcomers"
   ],
   "package": "https://pengqianhan.github.io/NZ-life-skills/",
-  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#arrival-setup",
+  "skills_index_url": "https://pengqianhan.github.io/NZ-life-skills/skills-index.html#nz-arrival-setup",
   "skills": [
     {
       "name": "kiwi-access-card",
