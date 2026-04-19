@@ -37,13 +37,13 @@ English version: [README.md](./README.md)
 
 ## Bundle 结构
 
-### Pre-Departure
+### 出发前准备
 
 覆盖赴新西兰前的准备和行李规划问题。
 
 - 留学出发前 checklist
 
-### Arrival Setup
+### 落地办理
 
 覆盖新到新西兰后第一周最关键的身份、办理和落地事项。
 
@@ -53,19 +53,26 @@ English version: [README.md](./README.md)
 - 手机卡和 eSIM
 - 公共交通
 
-### Living Basics
+### 日常生活
 
 覆盖落地后日常生活的基础问题。
 
 - 租房基础
 - 医疗资源使用
 
-### Meta
+### 仓库维护
 
 覆盖这个 package 的分发和可发现性支持。
 
 - repo discoverability
 - nz-skill-creator
+
+### 扩展能力
+
+覆盖超出 newcomer 主线但仍有复用价值的延伸技能。
+
+- 新西兰旅行规划
+- 通用旅行规划
 
 ## 这个仓库解决什么问题
 
@@ -107,6 +114,8 @@ scripts/
 | `nz-renting-basics` | 解释租房、flatting、bond、入住检查和租房常见文档。 |
 | `nz-healthcare-access` | 解释 GP、urgent care、pharmacy、student health 等医疗入口。 |
 | `repo-discoverability` | 帮助改造 GitHub 仓库，让搜索引擎、GitHub 用户和 AI agents 更容易发现它。 |
+| `nz-travel-planner` | 为新西兰多日行程与自驾路线提供旅行规划能力。 |
+| `travel-planner` | 为不同国家和地区的多日旅行路线提供通用规划能力。 |
 | `nz-skill-creator` | 在这个仓库里创建或更新 skill，并同步维护 docs、manifests 和 bundle 级 agent 索引。 |
 
 如果只想先看 package 视角，可直接阅读：[docs/package-structure.md](./docs/package-structure.md)

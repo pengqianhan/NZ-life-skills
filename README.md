@@ -39,10 +39,12 @@ It is designed to be:
 
 ### Pre-Departure
 Pre-departure planning and packing guidance for students heading to New Zealand.
+
 - `prepare-nz-study-departure`
 
 ### Arrival Setup
 First-week setup tasks for identity, tax, banking, mobile, and public transport.
+
 - `kiwi-access-card`
 - `nz-ird-number`
 - `nz-bank-account`
@@ -51,16 +53,19 @@ First-week setup tasks for identity, tax, banking, mobile, and public transport.
 
 ### Living Basics
 Day-to-day setup tasks after arrival, including housing and healthcare.
+
 - `nz-renting-basics`
 - `nz-healthcare-access`
 
 ### Meta
 Repository distribution and discoverability support.
+
 - `repo-discoverability`
 - `nz-skill-creator`
 
 ### Extended
 Travel-planning skills that extend the repository beyond newcomer onboarding.
+
 - `nz-travel-planner`
 - `travel-planner`
 

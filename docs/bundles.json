@@ -6,7 +6,9 @@
     "title": "New Zealand newcomer onboarding",
     "description": "Agent-friendly onboarding package for international students and newcomers in New Zealand.",
     "repository_url": "https://github.com/pengqianhan/NZ-life-skills",
-    "site_url": "https://pengqianhan.github.io/NZ-life-skills"
+    "site_url": "https://pengqianhan.github.io/NZ-life-skills",
+    "title_zh": "新西兰新来者与留学生 onboarding",
+    "description_zh": "一个面向国际学生与新来者的、适合 agents 接入的新西兰生活 onboarding 技能包。"
   },
   "bundles": [
     {
@@ -25,7 +27,9 @@
       "agent_skill_url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-pre-departure.json",
       "skills": [
         "prepare-nz-study-departure"
-      ]
+      ],
+      "name_zh": "出发前准备",
+      "description_zh": "覆盖赴新西兰前的准备和行李规划问题。"
     },
     {
       "name": "Arrival Setup",
@@ -47,7 +51,9 @@
         "nz-bank-account",
         "nz-mobile-connectivity",
         "nz-public-transport"
-      ]
+      ],
+      "name_zh": "落地办理",
+      "description_zh": "覆盖新到新西兰后第一周最关键的身份、办理和落地事项。"
     },
     {
       "name": "Living Basics",
@@ -66,7 +72,9 @@
       "skills": [
         "nz-renting-basics",
         "nz-healthcare-access"
-      ]
+      ],
+      "name_zh": "日常生活",
+      "description_zh": "覆盖落地后日常生活的基础问题。"
     },
     {
       "name": "Meta",
@@ -84,7 +92,9 @@
       "skills": [
         "repo-discoverability",
         "nz-skill-creator"
-      ]
+      ],
+      "name_zh": "仓库维护",
+      "description_zh": "覆盖这个 package 的分发和可发现性支持。"
     },
     {
       "name": "Extended",
@@ -102,7 +112,9 @@
       "skills": [
         "nz-travel-planner",
         "travel-planner"
-      ]
+      ],
+      "name_zh": "扩展能力",
+      "description_zh": "覆盖超出 newcomer 主线但仍有复用价值的延伸技能。"
     }
   ]
 }

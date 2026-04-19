@@ -25,6 +25,9 @@ Mirror the fields in [../../docs/add-skill-template.md](../../docs/add-skill-tem
 - Prefer `references/current-guidance.md` unless another filename is clearly better.
 - Keep `SKILL.md` concise; move detailed repository or policy material into `references/`.
 - Include `metadata` in the skill frontmatter because this repository uses it for package registration.
+- Keep bilingual manifest fields aligned when available:
+  - `skills.json`: `title_zh`, `description_zh`
+  - `bundles.json`: `name_zh`, `description_zh`
 
 ## Existing Bundles
 
@@ -39,12 +42,12 @@ Mirror the fields in [../../docs/add-skill-template.md](../../docs/add-skill-tem
 - `docs/skills.json`: skill registry
 - `docs/bundles.json`: bundle registry
 
-The repository-level English docs are rendered from these manifests by `scripts/register_skill.py`.
+The repository-level English and Chinese docs are rendered from these manifests by `scripts/register_skill.py`.
 
 ## Manual Follow-Up
 
 After running the registration script, review:
 
-- `README.zh-CN.md`
 - any custom bundle phrasing if a new bundle changes package positioning
+- whether the generated Chinese labels read naturally
 - any skill-specific examples or references that should be richer than the default scaffold

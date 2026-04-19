@@ -24,7 +24,8 @@ Use this skill to create repo-native skills for `NZ-life-skills` without leaving
 1. Read [../../docs/add-skill-template.md](../../docs/add-skill-template.md).
 2. Read [references/repo-playbook.md](references/repo-playbook.md).
 3. If the active environment exposes `$skill-creator`, follow it for scaffolding and validation. Otherwise, mirror its workflow directly.
-4. Create or update the skill folder under `skills/<name>/`.
+4. Prefer `scripts/create_skill.py` when adding a new repo-native skill from scratch.
+5. Create or update the skill folder under `skills/<name>/`.
 5. Ensure the skill includes:
    - `SKILL.md`
    - `agents/openai.yaml`
@@ -45,12 +46,25 @@ Use the bundled script to upsert and sync:
 - `docs/.well-known/agent-skills/index.json`
 - `docs/.well-known/agent-skills/<bundle>.json`
 - `README.md`
+- `README.zh-CN.md`
 - `docs/index.md`
 - `docs/package-structure.md`
 - `docs/skills-index.md`
 - `docs/for-agents.md`
 
-Treat `README.zh-CN.md` as a manual follow-up unless the requested change is trivial enough to patch safely in the same run.
+The manifests now support bilingual metadata fields such as `title_zh`, `description_zh`, `name_zh`, and `description_zh`, so Chinese README generation can stay aligned with the machine-readable registry.
+
+## One-Command Creation
+
+Use `scripts/create_skill.py` to scaffold, register, and validate a new skill in one run.
+
+It handles:
+
+- calling the generic `init_skill.py` scaffold
+- writing repo-native `SKILL.md` and `references/current-guidance.md`
+- creating `agents/openai.yaml`
+- registering the skill in manifests and docs
+- running a built-in structural validation pass
 
 ## Command Pattern
 
@@ -80,11 +94,13 @@ If the bundle is new, also pass:
 - Prefer existing bundles unless the new skill clearly sits outside the current package model.
 - Keep the new skill's frontmatter and `docs/skills.json` aligned.
 - Treat `docs/skills.json` and `docs/bundles.json` as the machine-readable source used to render package docs.
+- Keep English and Chinese metadata aligned when adding or renaming a skill.
 - If a reference filename differs from `current-guidance.md`, pass it explicitly to the script and verify that the local path and GitHub URL both match.
-- When the change affects package positioning, update `README.zh-CN.md` manually after the script run.
+- When the change affects package positioning in a nuanced way, review both README files after the script run even if they were auto-generated.
 
 ## References
 
 - Repository template: [../../docs/add-skill-template.md](../../docs/add-skill-template.md)
 - Repo playbook: [references/repo-playbook.md](references/repo-playbook.md)
+- One-command scaffold: [scripts/create_skill.py](scripts/create_skill.py)
 - Registration script: [scripts/register_skill.py](scripts/register_skill.py)

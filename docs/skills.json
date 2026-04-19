@@ -19,7 +19,9 @@
       "official_sources_required": true,
       "description": "Build and tailor a pre-departure checklist for Chinese students heading to New Zealand, covering documents, payment, phone setup, electronics, adapters, and packing decisions.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/prepare-nz-study-departure/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/prepare-nz-study-departure/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/prepare-nz-study-departure/references/current-guidance.md",
+      "title_zh": "留学出发前 checklist",
+      "description_zh": "为赴新西兰的中国留学生整理出发前清单，覆盖证件、支付、电子设备、插头和打包取舍。"
     },
     {
       "name": "kiwi-access-card",
@@ -35,7 +37,9 @@
       "official_sources_required": true,
       "description": "Answer questions about New Zealand Kiwi Access Card eligibility, online versus in-person application, required documents, fees, processing times, and form interpretation.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/kiwi-access-card/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/kiwi-access-card/references/current-policy.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/kiwi-access-card/references/current-policy.md",
+      "title_zh": "Kiwi Access Card",
+      "description_zh": "解释 Kiwi Access Card 的资格、线上和线下申请、所需材料、费用和表格问题。"
     },
     {
       "name": "nz-ird-number",
@@ -51,7 +55,9 @@
       "official_sources_required": true,
       "description": "Explain how to apply for and use a New Zealand IRD number, including eligibility, required identity documents, tax setup, and common first-arrival questions.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-ird-number/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-ird-number/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-ird-number/references/current-guidance.md",
+      "title_zh": "IRD number 申请",
+      "description_zh": "解释 IRD number 的申请、用途、常见材料和到达新西兰后的税务初始化问题。"
     },
     {
       "name": "nz-bank-account",
@@ -66,7 +72,9 @@
       "official_sources_required": true,
       "description": "Explain how international students and new arrivals can open and use a New Zealand bank account, including common document requirements and setup tasks.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-bank-account/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-bank-account/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-bank-account/references/current-guidance.md",
+      "title_zh": "银行开户",
+      "description_zh": "解释新西兰银行开户、常见材料、地址证明和日常使用设置。"
     },
     {
       "name": "nz-mobile-connectivity",
@@ -82,7 +90,9 @@
       "official_sources_required": true,
       "description": "Explain how new arrivals in New Zealand can choose and activate mobile service, including prepaid versus plan, SIM versus eSIM, and airport setup.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-mobile-connectivity/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-mobile-connectivity/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-mobile-connectivity/references/current-guidance.md",
+      "title_zh": "手机卡和 eSIM",
+      "description_zh": "解释 SIM、eSIM、预付费、套餐选择和落地即用的通信方案。"
     },
     {
       "name": "nz-public-transport",
@@ -97,7 +107,9 @@
       "official_sources_required": true,
       "description": "Explain how to start using public transport in New Zealand cities, including transport cards, local transit apps, airport-to-city setup, and concessions.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-public-transport/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-public-transport/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-public-transport/references/current-guidance.md",
+      "title_zh": "公共交通",
+      "description_zh": "解释不同城市的交通卡、官方 app、机场到住处和学生优惠。"
     },
     {
       "name": "nz-renting-basics",
@@ -112,7 +124,9 @@
       "official_sources_required": true,
       "description": "Explain the basics of renting in New Zealand for international students, including application documents, bond, tenancy setup, and first-week housing questions.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-renting-basics/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-renting-basics/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-renting-basics/references/current-guidance.md",
+      "title_zh": "租房基础",
+      "description_zh": "解释租房、flatting、bond、入住检查和租房常见文档。"
     },
     {
       "name": "nz-healthcare-access",
@@ -127,7 +141,9 @@
       "official_sources_required": true,
       "description": "Explain how international students and new arrivals can access healthcare in New Zealand, including GPs, urgent care, pharmacies, and student health services.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-healthcare-access/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-healthcare-access/references/current-guidance.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-healthcare-access/references/current-guidance.md",
+      "title_zh": "医疗资源使用",
+      "description_zh": "解释 GP、urgent care、pharmacy、student health 等医疗入口。"
     },
     {
       "name": "repo-discoverability",
@@ -142,7 +158,9 @@
       "official_sources_required": false,
       "description": "Improve the discoverability of a GitHub repository for search engines, GitHub users, and AI agents.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/repo-discoverability/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/repo-discoverability/references/discoverability-checklist.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/repo-discoverability/references/discoverability-checklist.md",
+      "title_zh": "repo discoverability",
+      "description_zh": "帮助改造 GitHub 仓库，让搜索引擎、GitHub 用户和 AI agents 更容易发现它。"
     },
     {
       "name": "nz-travel-planner",
@@ -156,7 +174,9 @@
       "policy_sensitive": false,
       "official_sources_required": false,
       "description": "New Zealand travel planning skill for road trips and multi-day travel, especially in the Auckland Northland and Bay of Islands region.",
-      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-travel-planner/SKILL.md"
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-travel-planner/SKILL.md",
+      "title_zh": "新西兰旅行规划",
+      "description_zh": "为新西兰多日行程与自驾路线提供旅行规划能力。"
     },
     {
       "name": "travel-planner",
@@ -171,7 +191,9 @@
       "official_sources_required": false,
       "description": "Universal travel planning skill for multi-day road trips and city-hopping itineraries anywhere in the world.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/references/nz-northland.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/travel-planner/references/nz-northland.md",
+      "title_zh": "通用旅行规划",
+      "description_zh": "为不同国家和地区的多日旅行路线提供通用规划能力。"
     },
     {
       "name": "nz-skill-creator",
@@ -186,7 +208,9 @@
       "official_sources_required": false,
       "description": "Create or update repository-native skills in NZ Life Skills and keep package docs, manifests, and bundle-level agent indexes in sync.",
       "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-skill-creator/SKILL.md",
-      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-skill-creator/references/repo-playbook.md"
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-skill-creator/references/repo-playbook.md",
+      "title_zh": "nz-skill-creator",
+      "description_zh": "在这个仓库里创建或更新 skill，并同步维护 docs、manifests 和 bundle 级 agent 索引。"
     }
   ]
 }

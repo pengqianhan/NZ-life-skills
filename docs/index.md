@@ -18,9 +18,11 @@ New Zealand pre-departure and newcomer onboarding package for Codex and Claude C
 ## Package View
 
 ### Pre-Departure
+
 - prepare-nz-study-departure
 
 ### Arrival Setup
+
 - kiwi-access-card
 - nz-ird-number
 - nz-bank-account
@@ -28,14 +30,17 @@ New Zealand pre-departure and newcomer onboarding package for Codex and Claude C
 - nz-public-transport
 
 ### Living Basics
+
 - nz-renting-basics
 - nz-healthcare-access
 
 ### Meta
+
 - repo-discoverability
 - nz-skill-creator
 
 ### Extended
+
 - nz-travel-planner
 - travel-planner
 
