@@ -211,6 +211,24 @@
       "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/nz-skill-creator/references/repo-playbook.md",
       "title_zh": "nz-skill-creator",
       "description_zh": "在这个仓库里创建或更新 skill，并同步维护 docs、manifests 和 bundle 级 agent 索引。"
+    },
+    {
+      "name": "jp-skill",
+      "package": "nz-life-skills",
+      "bundle": "nz-living-basics",
+      "geography": "nz",
+      "audience": [
+        "international-students",
+        "newcomers",
+        "new-migrants"
+      ],
+      "policy_sensitive": true,
+      "official_sources_required": true,
+      "description": "Guide users on when New Zealand Justice of the Peace services can help with certified copies, witnessed signatures, statutory declarations, affidavits, affirmations, and ordinary certified-document requests, then help find nearby JP contact details from official sources.",
+      "description_zh": "判断哪些新西兰 JP 场景可以找太平绅士，并在确认适用后帮助用户从官方来源查找附近 JP 地址或联系方式。",
+      "title_zh": "JP 太平绅士服务",
+      "skill_doc_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/jp-skill/SKILL.md",
+      "reference_url": "https://github.com/pengqianhan/NZ-life-skills/blob/main/skills/jp-skill/references/current-guidance.md"
     }
   ]
 }

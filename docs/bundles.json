@@ -71,7 +71,8 @@
       "agent_skill_url": "https://pengqianhan.github.io/NZ-life-skills/.well-known/agent-skills/nz-living-basics.json",
       "skills": [
         "nz-renting-basics",
-        "nz-healthcare-access"
+        "nz-healthcare-access",
+        "jp-skill"
       ],
       "name_zh": "日常生活",
       "description_zh": "覆盖落地后日常生活的基础问题。"

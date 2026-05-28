@@ -56,6 +56,7 @@ Day-to-day setup tasks after arrival, including housing and healthcare.
 
 - `nz-renting-basics`
 - `nz-healthcare-access`
+- `jp-skill`
 
 ### Meta
 Repository distribution and discoverability support.
@@ -99,6 +100,7 @@ Each skill lives under `skills/` and is maintained once. The repository is inten
 | `nz-travel-planner` | New Zealand travel planning skill for road trips and multi-day travel, especially in the Auckland Northland and Bay of Islands region. |
 | `travel-planner` | Universal travel planning skill for multi-day road trips and city-hopping itineraries anywhere in the world. |
 | `nz-skill-creator` | Create or update repository-native skills in NZ Life Skills and keep package docs, manifests, and bundle-level agent indexes in sync. |
+| `jp-skill` | Guide users on when New Zealand Justice of the Peace services can help with certified copies, witnessed signatures, statutory declarations, affidavits, affirmations, and ordinary certified-document requests, then help find nearby JP contact details from official sources. |
 
 For a concise packaging view, see [Package structure](./docs/package-structure.md).
 

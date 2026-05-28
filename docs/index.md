@@ -33,6 +33,7 @@ New Zealand pre-departure and newcomer onboarding package for Codex and Claude C
 
 - nz-renting-basics
 - nz-healthcare-access
+- jp-skill
 
 ### Meta
 

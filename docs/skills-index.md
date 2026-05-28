@@ -82,6 +82,13 @@ Purpose: Day-to-day setup tasks after arrival, including housing and healthcare.
   - [SKILL.md](../skills/nz-healthcare-access/SKILL.md)
   - [Current guidance](../skills/nz-healthcare-access/references/current-guidance.md)
 
+#### `jp-skill`
+
+- Purpose: Guide users on when New Zealand Justice of the Peace services can help with certified copies, witnessed signatures, statutory declarations, affidavits, affirmations, and ordinary certified-document requests, then help find nearby JP contact details from official sources.
+- Files:
+  - [SKILL.md](../skills/jp-skill/SKILL.md)
+  - [Current guidance](../skills/jp-skill/references/current-guidance.md)
+
 ### Meta
 
 Purpose: Repository distribution and discoverability support.

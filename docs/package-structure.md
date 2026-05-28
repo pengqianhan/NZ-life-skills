@@ -36,6 +36,7 @@ Purpose: Day-to-day setup tasks after arrival, including housing and healthcare.
 
 - `nz-renting-basics`
 - `nz-healthcare-access`
+- `jp-skill`
 
 ### 4. Meta
 

@@ -59,6 +59,7 @@ English version: [README.md](./README.md)
 
 - 租房基础
 - 医疗资源使用
+- JP 太平绅士服务
 
 ### 仓库维护
 
@@ -117,6 +118,7 @@ scripts/
 | `nz-travel-planner` | 为新西兰多日行程与自驾路线提供旅行规划能力。 |
 | `travel-planner` | 为不同国家和地区的多日旅行路线提供通用规划能力。 |
 | `nz-skill-creator` | 在这个仓库里创建或更新 skill，并同步维护 docs、manifests 和 bundle 级 agent 索引。 |
+| `jp-skill` | 判断哪些新西兰 JP 场景可以找太平绅士，并在确认适用后帮助用户从官方来源查找附近 JP 地址或联系方式。 |
 
 如果只想先看 package 视角，可直接阅读：[docs/package-structure.md](./docs/package-structure.md)
 
